@@ -4,9 +4,9 @@ I make stuff, mostly with [code][d] or [words][b].
 
 ```swift
 enum Angelo {
-	static let fullName = "Angelo Stavrow"
-	static let location = "Montreal, Canada 🇨🇦"
-	static let pronouns = "he/him"
+    static let fullName = "Angelo Stavrow"
+    static let location = "Montreal, Canada 🇨🇦"
+    static let pronouns = "he/him"
 }
 ```
 
